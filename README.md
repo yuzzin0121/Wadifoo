@@ -38,5 +38,7 @@
 - 개발 언어: Java, Python, SQL
 - 핵심 기술: OpenCV, EasyOCR, Flask, Papago API
 
+<br>
+
 ## 개발 언어
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
